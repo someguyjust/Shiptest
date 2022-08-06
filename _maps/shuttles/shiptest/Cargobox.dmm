@@ -1,0 +1,2439 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aM" = (
+/obj/structure/chair{
+	dir = 1
+	},
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/floor/plasteel/vaporwave,
+/area/space)
+"bu" = (
+/obj/structure/table/wood/reinforced,
+/obj/item/flashlight/lamp/green,
+/turf/open/floor/wood/walnut,
+/area/space)
+"bE" = (
+/obj/structure/chair/sofa/left,
+/turf/open/floor/wood/mahogany,
+/area/space)
+"bH" = (
+/obj/structure/chair/comfy/brown{
+	dir = 8
+	},
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/wood/mahogany,
+/area/space)
+"bI" = (
+/turf/closed/wall,
+/area/space)
+"cO" = (
+/turf/open/floor/plasteel/white,
+/area/space)
+"dl" = (
+/obj/effect/spawner/structure/window/reinforced/tinted,
+/turf/open/floor/plating,
+/area/space)
+"dA" = (
+/obj/machinery/atmospherics/components/trinary/filter/atmos/o2,
+/turf/open/space/basic,
+/area/space)
+"ed" = (
+/obj/machinery/computer/helm{
+	dir = 8
+	},
+/turf/open/floor/plasteel/tech/techmaint,
+/area/space)
+"ei" = (
+/obj/structure/bed,
+/obj/item/bedsheet/random,
+/turf/open/floor/wood/walnut,
+/area/space)
+"ek" = (
+/obj/machinery/atmospherics/components/trinary/filter/atmos/n2,
+/turf/open/space/basic,
+/area/space)
+"en" = (
+/obj/structure/window/plasma/reinforced/spawner,
+/turf/open/floor/engine/air,
+/area/space)
+"eu" = (
+/obj/machinery/holopad,
+/turf/open/floor/wood/mahogany,
+/area/space)
+"eH" = (
+/obj/effect/turf_decal/corner/mauve/border{
+	dir = 10
+	},
+/turf/open/floor/plasteel/patterned/cargo_one,
+/area/space)
+"fg" = (
+/turf/open/floor/plasteel/tech,
+/area/space)
+"fC" = (
+/obj/structure/table/wood/fancy/cyan,
+/turf/open/floor/wood/mahogany,
+/area/space)
+"gA" = (
+/obj/structure/chair/comfy/brown{
+	dir = 8
+	},
+/turf/open/floor/wood/mahogany,
+/area/space)
+"gC" = (
+/turf/open/floor/plasteel/tech/techmaint,
+/area/space)
+"gH" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/turf/open/floor/plasteel/stairs{
+	dir = 1
+	},
+/area/space)
+"hx" = (
+/obj/machinery/computer/crew{
+	dir = 1
+	},
+/turf/open/floor/plasteel/tech/techmaint,
+/area/space)
+"hC" = (
+/obj/machinery/door/poddoor/shutters{
+	id = "cargo"
+	},
+/turf/open/floor/plating,
+/area/space)
+"ii" = (
+/obj/effect/spawner/structure/window/reinforced,
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/plating,
+/area/space)
+"iq" = (
+/obj/effect/turf_decal/corner/mauve/border{
+	dir = 6
+	},
+/obj/item/encryptionkey/wideband,
+/obj/structure/closet/crate/secure/loot{
+	name = "locked crate"
+	},
+/turf/open/floor/plasteel/patterned/cargo_one,
+/area/space)
+"jd" = (
+/obj/structure/rack,
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 1
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"jB" = (
+/obj/structure/chair,
+/turf/open/floor/plasteel/vaporwave,
+/area/space)
+"jJ" = (
+/turf/open/space/basic,
+/area/space)
+"ka" = (
+/obj/structure/window/plasma/reinforced/spawner/north,
+/turf/open/floor/engine/air,
+/area/space)
+"kB" = (
+/obj/machinery/atmospherics/pipe/manifold/brown/hidden,
+/obj/effect/turf_decal/trimline/orange/filled/warning{
+	dir = 8
+	},
+/turf/open/floor/plasteel/tech/grid,
+/area/space)
+"kQ" = (
+/obj/machinery/suit_storage_unit/inherit/industrial,
+/obj/effect/turf_decal/corner/blue/border,
+/obj/effect/turf_decal/corner/blue/border{
+	dir = 1
+	},
+/obj/machinery/atmospherics/components/unary/vent_pump/siphon/atmos/nitrogen_output{
+	dir = 1;
+	name = "inlet";
+	on = 0
+	},
+/obj/machinery/light/small,
+/turf/open/floor/plasteel/tech/grid,
+/area/space)
+"kS" = (
+/obj/structure/window/plasma/reinforced/spawner,
+/obj/effect/turf_decal/atmos/oxygen{
+	dir = 1;
+	pixel_x = -12
+	},
+/turf/open/floor/engine/o2,
+/area/space)
+"lm" = (
+/obj/effect/turf_decal/corner/mauve/border{
+	dir = 8
+	},
+/turf/open/floor/plasteel/patterned/cargo_one,
+/area/space)
+"lD" = (
+/obj/structure/chair{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 6
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"ma" = (
+/obj/machinery/computer/security{
+	dir = 1
+	},
+/turf/open/floor/plasteel/tech/techmaint,
+/area/space)
+"mc" = (
+/obj/machinery/atmospherics/components/trinary/mixer/airmix/flipped{
+	dir = 1
+	},
+/turf/open/space/basic,
+/area/space)
+"mA" = (
+/obj/structure/chair,
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/floor/plasteel/vaporwave,
+/area/space)
+"mV" = (
+/obj/structure/window/plasma/reinforced/spawner,
+/obj/effect/turf_decal/atmos/air{
+	dir = 1
+	},
+/turf/open/floor/engine/air,
+/area/space)
+"nc" = (
+/obj/machinery/portable_atmospherics/canister/oxygen,
+/obj/effect/turf_decal/corner/blue/bordercee{
+	dir = 4
+	},
+/obj/machinery/atmospherics/components/unary/vent_pump/siphon/atmos/nitrogen_output{
+	dir = 1;
+	name = "inlet";
+	on = 0
+	},
+/turf/open/floor/plasteel/tech/grid,
+/area/space)
+"nB" = (
+/turf/open/floor/wood/walnut,
+/area/space)
+"nP" = (
+/obj/structure/window/plasma/reinforced/spawner/north,
+/obj/machinery/atmospherics/components/unary/vent_pump/siphon/atmos/oxygen_output{
+	dir = 1
+	},
+/turf/open/floor/engine/o2,
+/area/space)
+"nS" = (
+/obj/effect/turf_decal/corner/mauve/border{
+	dir = 4
+	},
+/turf/open/floor/plasteel/patterned/cargo_one,
+/area/space)
+"os" = (
+/obj/structure/dresser,
+/turf/open/floor/wood/walnut,
+/area/space)
+"ot" = (
+/obj/structure/railing,
+/obj/machinery/atmospherics/pipe/manifold/brown/hidden{
+	dir = 1
+	},
+/turf/open/floor/plasteel/tech/grid,
+/area/space)
+"po" = (
+/turf/open/floor/wood/maple,
+/area/space)
+"pS" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 4
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"qX" = (
+/obj/structure/chair{
+	dir = 1
+	},
+/turf/open/floor/plasteel/vaporwave,
+/area/space)
+"qY" = (
+/obj/structure/table/reinforced,
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/floor/plasteel/vaporwave,
+/area/space)
+"ri" = (
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/floor/plasteel/stairs,
+/area/space)
+"ro" = (
+/obj/machinery/power/smes/shuttle/precharged{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/space)
+"rU" = (
+/turf/open/floor/plasteel/patterned/cargo_one,
+/area/space)
+"sH" = (
+/obj/structure/table/wood/fancy/purple,
+/turf/open/floor/wood/mahogany,
+/area/space)
+"sW" = (
+/turf/open/floor/plasteel/vaporwave,
+/area/space)
+"ts" = (
+/obj/machinery/door/airlock/command,
+/turf/open/floor/wood/maple,
+/area/space)
+"ux" = (
+/turf/open/floor/wood/mahogany,
+/area/space)
+"uy" = (
+/obj/machinery/atmospherics/pipe/simple/brown/hidden{
+	dir = 9
+	},
+/obj/effect/turf_decal/trimline/orange/filled/warning{
+	dir = 4
+	},
+/turf/open/floor/plasteel/tech/grid,
+/area/space)
+"uF" = (
+/obj/machinery/atmospherics/pipe/manifold/brown/hidden,
+/turf/open/floor/plasteel/tech/grid,
+/area/space)
+"uN" = (
+/obj/structure/table/reinforced,
+/turf/open/floor/plasteel/vaporwave,
+/area/space)
+"vi" = (
+/obj/structure/railing/corner{
+	dir = 1
+	},
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"vV" = (
+/obj/structure/catwalk/over/plated_catwalk/dark,
+/obj/machinery/atmospherics/components/unary/outlet_injector/atmos/nitrogen_input{
+	name = "injector";
+	on = 0
+	},
+/obj/structure/tank_dispenser/oxygen,
+/obj/structure/railing,
+/turf/open/floor/plasteel/tech/grid,
+/area/space)
+"wk" = (
+/obj/machinery/power/shuttle/engine/electric{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/space)
+"wr" = (
+/obj/machinery/suit_storage_unit/inherit/industrial,
+/obj/effect/turf_decal/corner/blue/border,
+/obj/effect/turf_decal/corner/blue/border{
+	dir = 1
+	},
+/obj/machinery/atmospherics/components/unary/vent_pump/siphon/atmos/nitrogen_output{
+	dir = 1;
+	name = "inlet";
+	on = 0
+	},
+/turf/open/floor/plasteel/tech/grid,
+/area/space)
+"wN" = (
+/obj/structure/window/plasma/reinforced/spawner/west,
+/obj/structure/window/plasma/reinforced/spawner/north,
+/turf/open/floor/engine/o2,
+/area/space)
+"xt" = (
+/obj/effect/turf_decal/corner/mauve/border{
+	dir = 4
+	},
+/obj/effect/turf_decal/corner/mauve/border{
+	dir = 4
+	},
+/turf/open/floor/plasteel/patterned/cargo_one,
+/area/space)
+"xB" = (
+/obj/effect/turf_decal/corner/blue/bordercee{
+	dir = 8
+	},
+/obj/machinery/computer/atmos_control/tank/nitrogen_tank{
+	dir = 1;
+	name = "Cargo Bay Control"
+	},
+/obj/machinery/atmospherics/components/unary/vent_pump/siphon/atmos/nitrogen_output{
+	dir = 1;
+	name = "inlet";
+	on = 0
+	},
+/turf/open/floor/plasteel/tech/grid,
+/area/space)
+"xW" = (
+/obj/machinery/vending/boozeomat/all_access,
+/turf/open/floor/wood/mahogany,
+/area/space)
+"zz" = (
+/obj/effect/turf_decal/trimline/red/filled/corner{
+	dir = 1
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"zG" = (
+/obj/machinery/door/airlock/wood,
+/turf/open/floor/wood/mahogany,
+/area/space)
+"An" = (
+/obj/effect/turf_decal/trimline/red/filled/line,
+/obj/machinery/door/airlock/security/glass,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"AP" = (
+/obj/machinery/cryopod{
+	dir = 4
+	},
+/obj/machinery/computer/cryopod{
+	pixel_y = 26
+	},
+/turf/open/floor/wood/walnut,
+/area/space)
+"AW" = (
+/obj/structure/railing/corner{
+	dir = 4
+	},
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"Bo" = (
+/obj/structure/railing,
+/obj/machinery/atmospherics/pipe/manifold/brown/hidden{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/orange/filled/warning{
+	dir = 8
+	},
+/turf/open/floor/plasteel/tech/grid,
+/area/space)
+"Cp" = (
+/obj/structure/closet,
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 9
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"DO" = (
+/obj/structure/table/reinforced,
+/obj/machinery/microwave,
+/turf/open/floor/plasteel/white,
+/area/space)
+"Ec" = (
+/obj/structure/table/reinforced,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"Ed" = (
+/obj/structure/catwalk/over/plated_catwalk/dark,
+/obj/machinery/atmospherics/components/unary/outlet_injector/atmos/nitrogen_input{
+	name = "injector";
+	on = 0
+	},
+/obj/machinery/ore_silo,
+/obj/structure/railing,
+/turf/open/floor/plasteel/tech/grid,
+/area/space)
+"Es" = (
+/obj/effect/turf_decal/trimline/red/filled/corner{
+	dir = 8
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"EX" = (
+/obj/structure/table/reinforced,
+/turf/open/floor/plasteel/white,
+/area/space)
+"Fm" = (
+/obj/structure/window/plasma/reinforced/spawner/north,
+/obj/structure/window/plasma/reinforced/spawner/east,
+/obj/machinery/atmospherics/components/unary/vent_pump/high_volume/siphon/atmos/air_output{
+	piping_layer = 2;
+	dir = 1
+	},
+/turf/open/floor/engine/air,
+/area/space)
+"Gp" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 4
+	},
+/obj/structure/chair/office/light{
+	dir = 1
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"Ha" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/turf/open/floor/plasteel/stairs,
+/area/space)
+"HO" = (
+/obj/structure/railing,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"IL" = (
+/obj/structure/window/plasma/reinforced/spawner/west,
+/obj/structure/window/plasma/reinforced/spawner,
+/obj/machinery/air_sensor/atmos/toxin_tank{
+	id_tag = "nemo_tox_sensor"
+	},
+/turf/open/floor/engine/plasma,
+/area/space)
+"Ju" = (
+/obj/machinery/power/terminal{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/space)
+"JW" = (
+/obj/structure/window/plasma/reinforced/spawner/east,
+/obj/structure/window/plasma/reinforced/spawner,
+/turf/open/floor/engine/air,
+/area/space)
+"Ki" = (
+/obj/machinery/door/airlock/wood,
+/turf/open/floor/wood/maple,
+/area/space)
+"KP" = (
+/obj/machinery/modular_computer/console/preset/command{
+	dir = 8
+	},
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel/tech/techmaint,
+/area/space)
+"Lg" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"Ll" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/wood/walnut,
+/area/space)
+"Lw" = (
+/obj/structure/sink{
+	pixel_y = 20
+	},
+/turf/open/floor/plasteel/white,
+/area/space)
+"LG" = (
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"LH" = (
+/obj/machinery/door/airlock/silver,
+/turf/open/floor/plasteel/patterned,
+/area/space)
+"Mp" = (
+/obj/structure/window/plasma/reinforced/spawner/east,
+/obj/structure/window/plasma/reinforced/spawner,
+/obj/effect/turf_decal/atmos/plasma{
+	dir = 1;
+	pixel_x = -11
+	},
+/turf/open/floor/engine/plasma,
+/area/space)
+"MM" = (
+/obj/structure/window/plasma/reinforced/spawner/north,
+/obj/machinery/air_sensor/atmos/air_tank,
+/turf/open/floor/engine/air,
+/area/space)
+"MU" = (
+/obj/structure/closet,
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 10
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"OY" = (
+/obj/machinery/atmospherics/pipe/simple/brown/hidden{
+	dir = 4
+	},
+/obj/machinery/door/poddoor/shutters{
+	id = "Internal";
+	name = "internal shutters"
+	},
+/turf/open/floor/plating,
+/area/space)
+"Pe" = (
+/obj/structure/window/plasma/reinforced/spawner,
+/obj/structure/window/plasma/reinforced/spawner/west,
+/obj/machinery/air_sensor/atmos/oxygen_tank{
+	id_tag = "nemo_o2_sensor"
+	},
+/turf/open/floor/engine/o2,
+/area/space)
+"Pq" = (
+/obj/structure/chair{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/red/filled/line,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"PZ" = (
+/obj/structure/closet/secure_closet/freezer/fridge/open,
+/turf/open/floor/plasteel/white,
+/area/space)
+"Qk" = (
+/obj/structure/table/wood/fancy/royalblack,
+/turf/open/floor/wood/mahogany,
+/area/space)
+"Rm" = (
+/obj/structure/toilet{
+	dir = 8;
+	pixel_x = 5
+	},
+/obj/machinery/shower{
+	pixel_y = 20
+	},
+/obj/structure/curtain,
+/turf/open/floor/plasteel/white,
+/area/space)
+"RM" = (
+/obj/structure/chair/sofa/right,
+/turf/open/floor/wood/mahogany,
+/area/space)
+"Ss" = (
+/obj/machinery/atmospherics/pipe/simple/brown/hidden{
+	dir = 10
+	},
+/obj/structure/railing,
+/obj/effect/turf_decal/trimline/orange/filled/warning{
+	dir = 4
+	},
+/turf/open/floor/plasteel/tech/grid,
+/area/space)
+"SY" = (
+/obj/effect/turf_decal/corner/mauve/border{
+	dir = 9
+	},
+/turf/open/floor/plasteel/patterned/cargo_one,
+/area/space)
+"SZ" = (
+/turf/open/floor/plating,
+/area/space)
+"Tn" = (
+/obj/machinery/computer/card,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"Tr" = (
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"TF" = (
+/obj/structure/window/plasma/reinforced/spawner/north,
+/obj/structure/window/plasma/reinforced/spawner/east,
+/obj/machinery/atmospherics/components/unary/vent_pump/siphon/atmos/toxin_output{
+	dir = 1
+	},
+/turf/open/floor/engine/plasma,
+/area/space)
+"Ua" = (
+/obj/machinery/door/airlock/wood,
+/turf/open/floor/wood/walnut,
+/area/space)
+"Ub" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/plasteel/stairs,
+/area/space)
+"Uo" = (
+/obj/structure/railing,
+/obj/structure/closet,
+/turf/open/floor/plasteel/tech,
+/area/space)
+"UK" = (
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/floor/plasteel/stairs{
+	dir = 1
+	},
+/area/space)
+"UU" = (
+/obj/structure/chair{
+	dir = 8
+	},
+/turf/open/floor/plasteel/vaporwave,
+/area/space)
+"Vr" = (
+/obj/structure/railing/corner{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/space)
+"VC" = (
+/obj/machinery/computer/security,
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 5
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"VQ" = (
+/obj/effect/turf_decal/trimline/red/filled/line{
+	dir = 1
+	},
+/obj/machinery/door/airlock/security/glass,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"VS" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/plating,
+/area/space)
+"Wu" = (
+/obj/structure/chair/sofa/right{
+	dir = 1
+	},
+/turf/open/floor/wood/mahogany,
+/area/space)
+"WL" = (
+/obj/structure/closet/crate/secure/loot{
+	name = "locked crate"
+	},
+/obj/item/gun/energy/ionrifle/carbine,
+/obj/effect/turf_decal/corner/mauve/border{
+	dir = 5
+	},
+/turf/open/floor/plasteel/patterned/cargo_one,
+/area/space)
+"XW" = (
+/obj/structure/catwalk/over/plated_catwalk/dark,
+/obj/machinery/atmospherics/components/unary/outlet_injector/atmos/nitrogen_input{
+	name = "injector";
+	on = 0
+	},
+/obj/structure/rack,
+/obj/structure/railing,
+/turf/open/floor/plasteel/tech/grid,
+/area/space)
+"YR" = (
+/obj/structure/chair/sofa/left{
+	dir = 1
+	},
+/turf/open/floor/wood/mahogany,
+/area/space)
+"Zq" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/wood/mahogany,
+/area/space)
+"Zr" = (
+/obj/structure/catwalk/over/plated_catwalk/dark,
+/obj/machinery/atmospherics/components/unary/outlet_injector/atmos/nitrogen_input{
+	name = "injector";
+	on = 0
+	},
+/obj/machinery/computer/cargo/express,
+/obj/structure/railing,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plasteel/tech/grid,
+/area/space)
+"ZY" = (
+/obj/structure/window/plasma/reinforced/spawner/north,
+/obj/structure/window/plasma/reinforced/spawner/west,
+/turf/open/floor/engine/plasma,
+/area/space)
+
+(1,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+"}
+(2,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+"}
+(3,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+"}
+(4,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+"}
+(5,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+"}
+(6,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+"}
+(7,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+"}
+(8,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+"}
+(9,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+jJ
+jJ
+bI
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+"}
+(10,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+bI
+jJ
+jJ
+bI
+bI
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+"}
+(11,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+jJ
+jJ
+jJ
+jJ
+bI
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+"}
+(12,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+jJ
+jJ
+jJ
+jJ
+bI
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+"}
+(13,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+wk
+bI
+jJ
+jJ
+jJ
+jJ
+bI
+wk
+bI
+jJ
+jJ
+jJ
+jJ
+"}
+(14,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+wk
+bI
+ro
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+ro
+bI
+wk
+bI
+jJ
+jJ
+"}
+(15,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+bI
+ro
+jJ
+Ju
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+Ju
+jJ
+ro
+bI
+bI
+jJ
+"}
+(16,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+jJ
+Ju
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+Ju
+jJ
+bI
+jJ
+"}
+(17,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+bI
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+bI
+"}
+(18,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+"}
+(19,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+VS
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+VS
+"}
+(20,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+VS
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+VS
+"}
+(21,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+bI
+bI
+bI
+LG
+LG
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+"}
+(22,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+jB
+uN
+qX
+LG
+LG
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+"}
+(23,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+sW
+UU
+sW
+LG
+LG
+bI
+bI
+VQ
+An
+bI
+bI
+jJ
+jJ
+jJ
+wN
+Pe
+bI
+"}
+(24,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+sW
+sW
+sW
+LG
+LG
+bI
+Cp
+zz
+Es
+MU
+bI
+jJ
+jJ
+jJ
+nP
+kS
+bI
+"}
+(25,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+mA
+qY
+aM
+AW
+LG
+bI
+jd
+Tr
+Tr
+Pq
+bI
+jJ
+jJ
+jJ
+ZY
+IL
+bI
+"}
+(26,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+cO
+cO
+cO
+LG
+LG
+bI
+VC
+Gp
+pS
+lD
+bI
+jJ
+jJ
+jJ
+TF
+Mp
+bI
+"}
+(27,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+DO
+EX
+PZ
+Lg
+LG
+bI
+bI
+VS
+VS
+bI
+bI
+jJ
+jJ
+jJ
+ka
+en
+bI
+"}
+(28,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+bI
+bI
+bI
+vi
+LG
+bI
+SY
+lm
+lm
+eH
+bI
+jJ
+jJ
+jJ
+MM
+mV
+bI
+"}
+(29,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+Lw
+cO
+bI
+LG
+LG
+hC
+Ha
+rU
+rU
+gH
+hC
+jJ
+jJ
+mc
+Fm
+JW
+bI
+"}
+(30,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+Rm
+cO
+LH
+LG
+LG
+hC
+ri
+rU
+rU
+UK
+hC
+ek
+jJ
+dA
+jJ
+jJ
+bI
+"}
+(31,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+bI
+bI
+bI
+bI
+Ki
+bI
+WL
+xt
+nS
+iq
+bI
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+"}
+(32,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+AP
+ei
+ei
+dl
+po
+bI
+bI
+OY
+OY
+bI
+bI
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+"}
+(33,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+Ll
+nB
+nB
+dl
+po
+VS
+vV
+kB
+Bo
+nc
+VS
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+"}
+(34,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+bu
+os
+nB
+Ua
+po
+bI
+XW
+uF
+ot
+wr
+bI
+bI
+bI
+zG
+bI
+bI
+bI
+"}
+(35,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+bI
+bI
+bI
+bI
+ts
+bI
+Zr
+uF
+ot
+kQ
+bI
+xW
+Zq
+ux
+ux
+xW
+bI
+"}
+(36,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+Tn
+fg
+Ub
+gC
+gC
+VS
+Ed
+uy
+Ss
+xB
+VS
+fC
+ux
+ux
+ux
+Qk
+bI
+"}
+(37,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+Ec
+HO
+gC
+gC
+hx
+bI
+bI
+SZ
+Vr
+bI
+bI
+RM
+ux
+eu
+ux
+YR
+bI
+"}
+(38,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+Ec
+HO
+gC
+gC
+ma
+VS
+SZ
+SZ
+SZ
+SZ
+VS
+bE
+ux
+ux
+ux
+Wu
+bI
+"}
+(39,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+bI
+Uo
+KP
+ed
+VS
+VS
+jJ
+jJ
+jJ
+jJ
+VS
+VS
+gA
+sH
+bH
+bI
+bI
+"}
+(40,1,1) = {"
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+bI
+bI
+bI
+VS
+ii
+jJ
+jJ
+jJ
+jJ
+jJ
+jJ
+VS
+VS
+bI
+bI
+bI
+jJ
+"}

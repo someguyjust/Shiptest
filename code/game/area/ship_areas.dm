@@ -389,6 +389,10 @@ NOTE: there are two lists of areas in the end of this file: centcom and station 
 	name = "Construction Area"
 	icon_state = "construction"
 
+/area/ship/airbay
+	name = "Airbay"
+	icon_state = "airbay"
+
 /// Storage Areas ///
 
 /area/ship/storage

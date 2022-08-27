@@ -392,6 +392,9 @@ NOTE: there are two lists of areas in the end of this file: centcom and station 
 /area/ship/airbay
 	name = "Airbay"
 	icon_state = "airbay"
+	lighting_colour_tube = "#cbdbff"
+	lighting_colour_bulb = "#b4d2ff"
+	sound_environment = SOUND_AREA_TUNNEL_ENCLOSED
 
 /// Storage Areas ///
 

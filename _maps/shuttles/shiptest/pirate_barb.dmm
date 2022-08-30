@@ -67,6 +67,12 @@
 /obj/machinery/door/airlock/external,
 /obj/structure/catwalk/over,
 /obj/effect/decal/cleanable/dirt/dust,
+/obj/docking_port/mobile{
+	dir = 4;
+	launch_status = 0;
+	port_direction = 2;
+	preferred_direction = 4
+	},
 /turf/open/floor/plating,
 /area/ship/storage)
 "bH" = (
@@ -1138,6 +1144,11 @@
 	},
 /turf/open/floor/plasteel/stairs,
 /area/ship/cargo)
+"Hu" = (
+/obj/machinery/atmospherics/pipe/manifold/brown/hidden,
+/obj/effect/turf_decal/corner_techfloor_grid/full,
+/turf/open/floor/plating/rust,
+/area/ship/airbay)
 "HL" = (
 /obj/structure/catwalk/over,
 /turf/open/floor/plating/rust,
@@ -1240,7 +1251,6 @@
 /obj/machinery/atmospherics/pipe/manifold/brown/hidden{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/dirt/dust,
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
@@ -2348,7 +2358,7 @@ gA
 Qu
 Vb
 vV
-uF
+Hu
 ot
 nc
 gS

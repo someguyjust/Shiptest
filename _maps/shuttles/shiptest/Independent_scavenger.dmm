@@ -95,6 +95,13 @@
 /obj/structure/closet/crate/large,
 /turf/open/floor/plasteel/tech/techmaint,
 /area/space)
+"nQ" = (
+/obj/machinery/power/terminal{
+	dir = 8
+	},
+/obj/structure/curtain/cloth,
+/turf/open/floor/plating,
+/area/space)
 "op" = (
 /obj/structure/window/reinforced{
 	dir = 4
@@ -710,7 +717,7 @@ Gh
 Nj
 Nj
 Nj
-Nj
+nQ
 Nj
 TW
 Gh

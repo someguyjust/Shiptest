@@ -205,6 +205,7 @@
 	icon_state = "hardsuit-engineering"
 	item_state = "eng_hardsuit"
 	armor = list("melee" = 30, "bullet" = 5, "laser" = 10, "energy" = 20, "bomb" = 10, "bio" = 100, "rad" = 75, "fire" = 100, "acid" = 75)
+	supports_variations = DIGITIGRADE_VARIATION
 	helmettype = /obj/item/clothing/head/helmet/space/hardsuit/engine
 	resistance_flags = FIRE_PROOF
 
@@ -264,7 +265,7 @@
 	heat_protection = HEAD
 	armor = list("melee" = 30, "bullet" = 5, "laser" = 10, "energy" = 20, "bomb" = 50, "bio" = 100, "rad" = 50, "fire" = 50, "acid" = 75)
 	light_range = 7
-	allowed = list(/obj/item/flashlight, /obj/item/tank/internals, /obj/item/resonator, /obj/item/mining_scanner, /obj/item/t_scanner/adv_mining_scanner, /obj/item/gun/energy/kinetic_accelerator, /obj/item/pinpointer/deepcore, /obj/item/environmental_regulator)
+	allowed = list(/obj/item/flashlight, /obj/item/tank/internals, /obj/item/resonator, /obj/item/mining_scanner, /obj/item/t_scanner/adv_mining_scanner, /obj/item/gun/energy/kinetic_accelerator, /obj/item/environmental_regulator)
 
 /obj/item/clothing/head/helmet/space/hardsuit/mining/Initialize()
 	. = ..()
@@ -463,6 +464,7 @@
 	desc = "An elite version of the syndicate hardsuit, with improved armour and fireproofing. It is in travel mode."
 	alt_desc = "An elite version of the syndicate hardsuit, with improved armour and fireproofing. It is in combat mode."
 	icon_state = "hardsuit0-syndielite"
+	item_state = "elitesyndie_hardsuit"
 	hardsuit_type = "syndielite"
 	helmettype = /obj/item/clothing/head/helmet/space/hardsuit/syndi/elite
 	armor = list("melee" = 60, "bullet" = 60, "laser" = 50, "energy" = 60, "bomb" = 55, "bio" = 100, "rad" = 70, "fire" = 100, "acid" = 100)
@@ -1014,6 +1016,12 @@
 	icon_state = "hardsuit0-frontier"
 	hardsuit_type = "frontier"
 
+/obj/item/clothing/head/helmet/space/hardsuit/security/independent/minutemen
+	name = "\improper CMM Patroller hardsuit helmet"
+	desc = "A hardsuit used by the Minutemen. To reduce costs, its a modified version of a more popular model from a independent manufacturer, and given to patrol vessels."
+	icon_state = "hardsuit0-cmm-patrol"
+	hardsuit_type = "cmm-patrol"
+
 /obj/item/clothing/suit/space/hardsuit/security/independent
 	icon_state = "hardsuit-independent-sec"
 	name = "security hardsuit"
@@ -1030,6 +1038,13 @@
 	icon_state = "hardsuit_frontier"
 	hardsuit_type = "hardsuit_frontier"
 	helmettype = /obj/item/clothing/head/helmet/space/hardsuit/security/independent/frontier
+
+/obj/item/clothing/suit/space/hardsuit/security/independent/minutemen
+	name = "\improper CMM Patroller hardsuit"
+	desc = "A hardsuit used by the Minutemen. To reduce costs, its a modified version of a more popular model from a independent manufacturer, and given to patrol vessels."
+	icon_state = "hardsuit-cmm-patrol"
+	hardsuit_type = "hardsuit-cmm-patrol"
+	helmettype = /obj/item/clothing/head/helmet/space/hardsuit/security/independent/minutemen
 
 	//Mining
 /obj/item/clothing/head/helmet/space/hardsuit/mining/independent
@@ -1079,7 +1094,7 @@
 	name = "pilot space suit"
 	icon_state = "space-pilot"
 	item_state = "space-pilot"
-	desc = "A lightweight, unarmored space suit designed for mech and spacepod pilots. Special attachment points make mounting and dismounting from spacepods and mechs much easier."
+	desc = "A lightweight, unarmored space suit designed for mech and fighter pilots. Special attachment points make mounting and dismounting from mechs much easier."
 	clothing_flags = STOPSPRESSUREDAMAGE | THICKMATERIAL | FAST_EMBARK
 	pocket_storage_component_path = /datum/component/storage/concrete/pockets/exo/large
 
@@ -1087,7 +1102,7 @@
 	name = "pilot helmet"
 	icon_state = "space-pilot-plain0"
 	item_state = "space-pilot-plain"
-	desc = "A specialized space helmet designed for mech and spacepod pilots. Offers limited impact protection."
+	desc = "A specialized space helmet designed for mech and fighter pilots. Offers limited impact protection."
 	var/skin = "plain"
 	var/blurb = " Its simple design is quite ancient."
 	up = FALSE
@@ -1119,7 +1134,7 @@
 		if("corvid")
 			blurb = " It is sloppily painted with thin teal and red paint. There are some dark stains on the lining..."
 
-	desc = "A specialized space helmet designed for mech and spacepod pilots. Offers limited impact protection.[blurb]"
+	desc = "A specialized space helmet designed for mech and fighter pilots. Offers limited impact protection.[blurb]"
 	update_icon_state()
 
 /obj/item/clothing/head/helmet/space/pilot/random/New()
@@ -1176,18 +1191,18 @@
 
 /obj/item/clothing/head/helmet/space/hardsuit/solgov
 	name = "\improper SolGov hardsuit helmet"
-	desc = "An armored spaceproof helmet. The glass has a metallic shine on it."
+	desc = "An armored spaceproof helmet, its visor is reminiscent of knights of yore."
 	icon_state = "hardsuit0-solgov"
 	item_state = "hardsuit0-solgov"
 	hardsuit_type = "solgov"
-	armor = list("melee" = 50, "bullet" = 45, "laser" = 40,"energy" = 30, "bomb" = 60, "bio" = 100, "rad" = 90, "fire" = 85, "acid" = 75)
+	armor = list("melee" = 50, "bullet" = 45, "laser" = 40, "energy" = 30, "bomb" = 60, "bio" = 100, "rad" = 60, "fire" = 90, "acid" = 75)
 
 /obj/item/clothing/suit/space/hardsuit/solgov
 	icon_state = "hardsuit_solgov"
 	name = "\improper SolGov hardsuit"
 	desc = "An armored spaceproof suit. A powered exoskeleton keeps the suit light and mobile."
 	item_state = "hardsuit_solgov"
-	armor = list("melee" = 50, "bullet" = 45, "laser" = 40, "energy" = 30, "bomb" = 60, "bio" = 100, "rad" = 90, "fire" = 85, "acid" = 75) //intentionally the fucking strong, this is master chief-tier armor //is this really what you call the strong?? is this the best solgov has to offer??????
+	armor = list("melee" = 50, "bullet" = 45, "laser" = 40, "energy" = 30, "bomb" = 60, "bio" = 100, "rad" = 60, "fire" = 90, "acid" = 75) //intentionally the fucking strong, this is master chief-tier armor //is this really what you call the strong?? is this the best solgov has to offer??????
 	helmettype = /obj/item/clothing/head/helmet/space/hardsuit/solgov
 	slowdown = 0
 
